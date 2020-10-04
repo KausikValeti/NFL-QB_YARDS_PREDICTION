@@ -1,0 +1,171 @@
+﻿Quarter,Time,Down,ToGo,Location,Detail,PIT,NWE,EPB,EPA
+1,15:00,,,PIT 35,"Chris Boswell kicks off 60 yards, returned by Brandon Bolden for 15 yards (tackle by Vince Williams)",0,0,0,0.28
+1,14:56,1,10,NWE 20,Sony Michel left guard for -1 yards (tackle by Stephon Tuitt),0,0,0.28,-0.46
+1,14:17,2,11,NWE 19,Brandon Bolden right end for 7 yards (tackle by Mark Barron),0,0,-0.46,-0.16
+1,13:43,3,4,NWE 26,James White right end for 9 yards (tackle by Joe Haden),0,0,-0.16,1.27
+1,13:14,1,10,NWE 35,Sony Michel left tackle for 3 yards (tackle by Steven Nelson and Tyson Alualu),0,0,1.27,1.13
+1,12:43,2,7,NWE 38,Sony Michel right end for -3 yards (tackle by Stephon Tuitt and Terrell Edmunds),0,0,1.13,0.04
+1,12:06,3,10,NWE 35,Tom Brady pass incomplete deep middle intended for Julian Edelman,0,0,0.04,-1.04
+1,12:01,4,10,NWE 35,Jake Bailey punts 53 yards out of bounds,0,0,-1.04,0.35
+1,11:54,1,10,PIT 12,James Conner right guard for 4 yards (tackle by Dont'a Hightower),0,0,-0.35,-0.37
+1,11:16,2,6,PIT 16,Ben Roethlisberger pass complete short right to JuJu Smith-Schuster for 7 yards (tackle by Dont'a Hightower and Stephon Gilmore),0,0,-0.37,0.48
+1,10:38,1,10,PIT 23,Ben Roethlisberger pass complete short left to James Conner for 9 yards (tackle by Stephon Gilmore),0,0,0.48,1.15
+1,10:07,2,1,PIT 32,James Conner right tackle for 3 yards (tackle by Lawrence Guy and Shilique Calhoun),0,0,1.15,1.27
+1,09:27,1,10,PIT 35,James Conner left guard for 2 yards (tackle by Patrick Chung and Lawrence Guy),0,0,1.27,0.99
+1,08:49,2,8,PIT 37,Jaylen Samuels left tackle for 2 yards (tackle by Dont'a Hightower),0,0,0.99,0.56
+1,08:07,3,6,PIT 39,Ben Roethlisberger pass incomplete deep right intended for Johnny Holton (defended by Jonathan Jones),0,0,0.56,-0.78
+1,08:01,4,6,PIT 39,"Jordan Berry punts 43 yards, fair catch by Gunner Olszewski at NE-18",0,0,-0.78,-0.04
+1,07:54,1,10,NWE 18,Tom Brady pass incomplete short left intended for Julian Edelman,0,0,0.04,-0.49
+1,07:50,2,10,NWE 18,Tom Brady pass complete short middle to Rex Burkhead for 17 yards (tackle by Mike Hilton),0,0,-0.49,1.27
+1,07:20,1,10,NWE 35,"Tom Brady pass incomplete short middle intended for Julian Edelman. Penalty on Ryan Izzo: Offensive Pass Interference, 10 yards (no play)",0,0,1.27,0.61
+1,07:14,1,20,NWE 25,James White up the middle for 8 yards (tackle by Mark Barron and Devin Bush),0,0,0.61,0.45
+1,06:36,2,12,NWE 33,James White right guard for 7 yards (tackle by Tyson Alualu and Devin Bush),0,0,0.45,0.7
+1,05:58,3,5,NWE 40,Tom Brady pass complete short left to Phillip Dorsett for 8 yards (tackle by Joe Haden),0,0,0.7,2.13
+1,05:35,1,10,NWE 48,Julian Edelman pass complete short left to James White for 32 yards (tackle by Cameron Sutton),0,0,2.13,4.24
+1,04:55,1,10,PIT 20,"Tom Brady pass complete short right to Josh Gordon for 20 yards, touchdown",0,6,4.24,7
+1,04:46,,,PIT 15,Stephen Gostkowski kicks extra point good,0,7,0,0
+1,04:46,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",0,7,0,0.61
+1,04:46,1,10,PIT 25,Jaylen Samuels left guard for 2 yards (tackle by Jamie Collins),0,7,0.61,0.33
+1,04:06,2,8,PIT 27,"Ben Roethlisberger pass complete short middle to Jaylen Samuels for no gain (tackle by Dont'a Hightower). Penalty on Alejandro Villanueva: Offensive Holding, 10 yards (no play)",0,7,0.33,-1.15
+1,03:35,2,18,PIT 17,Ben Roethlisberger pass complete short middle to Donte Moncrief for 3 yards (tackle by Jason McCourty),0,7,-1.15,-1.29
+1,03:25,3,15,PIT 20,"Penalty on Donte Moncrief: False Start, 5 yards (no play)",0,7,-1.29,-2.35
+1,03:05,3,20,PIT 15,Ben Roethlisberger pass complete short left to Diontae Johnson for 9 yards (tackle by Jason McCourty),0,7,-2.35,-1.77
+1,02:33,4,11,PIT 24,"Jordan Berry punts 58 yards, returned by Gunner Olszewski for 20 yards (tackle by Tyler Matakevich)",0,7,-1.77,-1.47
+1,02:16,1,10,NWE 38,Tom Brady pass complete deep middle to Jakobi Meyers for 22 yards (tackle by Mike Hilton),0,7,1.47,2.92
+1,01:32,1,10,PIT 40,Tom Brady pass complete short right to James White for 4 yards (tackle by Mark Barron),0,7,2.92,2.91
+1,00:53,2,6,PIT 36,Sony Michel right guard for 5 yards (tackle by Joe Haden and Mark Barron),0,7,2.91,2.87
+1,00:32,3,1,PIT 31,Sony Michel right guard for 2 yards (tackle by Terrell Edmunds),0,7,2.87,3.64
+2,15:00,1,10,PIT 29,Tom Brady pass complete short right to Josh Gordon for 9 yards (tackle by Joe Haden and Steven Nelson),0,7,3.64,4.32
+2,14:28,2,1,PIT 20,Sony Michel right guard for 1 yard (tackle by Tyson Alualu),0,7,4.32,4.31
+2,13:49,1,10,PIT 19,Tom Brady pass complete short middle to Julian Edelman for 9 yards (tackle by Terrell Edmunds),0,7,4.31,5.36
+2,13:16,2,1,PIT 10,Sony Michel up the middle for 1 yard (tackle by Cameron Heyward and Devin Bush),0,7,5.36,5.14
+2,12:32,,,,Timeout #1 by New England Patriots,,,,
+2,12:32,1,9,PIT 9,Tom Brady pass complete short right to James White for 2 yards (tackle by Joe Haden),0,7,5.14,4.76
+2,12:02,2,7,PIT 7,Tom Brady pass incomplete short left intended for Rex Burkhead,0,7,4.76,3.81
+2,12:00,3,7,PIT 7,Tom Brady pass incomplete short right intended for Josh Gordon,0,7,3.81,2.97
+2,11:54,4,7,PIT 7,Stephen Gostkowski 25 yard field goal good,0,10,2.97,3
+2,11:52,,,NWE 35,"Stephen Gostkowski kicks off 61 yards, returned by Ryan Switzer for 17 yards (tackle by Brandon Bolden)",0,10,0,0.34
+2,11:47,1,10,PIT 21,Ben Roethlisberger pass complete short right to Ryan Switzer for 8 yards (tackle by Devin McCourty and Patrick Chung),0,10,0.34,0.88
+2,11:18,2,2,PIT 29,Ben Roethlisberger pass complete short right to Ryan Switzer for 1 yard (tackle by Patrick Chung),0,10,0.88,0.3
+2,10:40,3,1,PIT 30,James Conner up the middle for no gain (tackle by Danny Shelton and Devin McCourty),0,10,0.3,-1.37
+2,10:10,4,1,PIT 30,"Jordan Berry punts 50 yards, returned by Gunner Olszewski for 15 yards (tackle by Jordan Dangerfield)",0,10,-1.37,-1.27
+2,10:00,1,10,NWE 35,Sony Michel up the middle for 3 yards (tackle by Bud Dupree and Cameron Heyward),0,10,1.27,1.13
+2,09:26,2,7,NWE 38,Tom Brady pass incomplete short left intended for Ryan Izzo,0,10,1.13,0.43
+2,09:22,3,7,NWE 38,Tom Brady pass incomplete short right intended for James White,0,10,0.43,-0.85
+2,09:19,4,7,NWE 38,"Jake Bailey punts 32 yards, fair catch by Ryan Switzer at PIT-30",0,10,-0.85,-0.94
+2,09:12,1,10,PIT 30,"Ben Roethlisberger pass incomplete short left intended for James Conner. Penalty on Ja'Whaun Bentley: Defensive Holding, 5 yards (no play)",0,10,0.94,1.27
+2,09:07,1,10,PIT 35,James Conner left end for 5 yards (tackle by Ja'Whaun Bentley),0,10,1.27,1.4
+2,08:27,2,5,PIT 40,James Conner up the middle for 4 yards (tackle by Devin McCourty),0,10,1.4,1.22
+2,07:46,3,1,PIT 44,James Conner left end for -4 yards (tackle by Jamie Collins and John Simon),0,10,1.22,-0.72
+2,07:04,4,5,PIT 40,"Jordan Berry punts 40 yards, fair catch by Gunner Olszewski at NE-20",0,10,-0.72,-0.28
+2,06:58,1,10,NWE 20,Rex Burkhead left guard for 4 yards (tackle by Kameron Kelly and Steven Nelson),0,10,0.28,0.27
+2,06:31,2,6,NWE 24,Rex Burkhead up the middle for 3 yards (tackle by Kameron Kelly),0,10,0.27,-0.03
+2,05:53,3,3,NWE 27,Tom Brady pass complete short left to James White for 8 yards (tackle by Mark Barron and Kameron Kelly),0,10,-0.03,1.27
+2,05:17,1,10,NWE 35,Tom Brady pass complete short middle to Julian Edelman for 16 yards (tackle by Kameron Kelly),0,10,1.27,2.32
+2,04:35,1,10,PIT 49,Tom Brady pass complete short left to Julian Edelman for 24 yards (tackle by Kameron Kelly),0,10,2.32,3.91
+2,03:54,1,10,PIT 25,"Tom Brady pass complete deep right to Phillip Dorsett for 25 yards, touchdown",0,16,3.91,7
+2,03:49,,,PIT 15,Stephen Gostkowski kicks extra point good,0,17,0,0
+2,03:49,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",0,17,0,0.61
+2,03:49,1,10,PIT 25,Ben Roethlisberger pass incomplete deep left intended for Donte Moncrief (defended by Jason McCourty),0,17,0.61,0.06
+2,03:42,2,10,PIT 25,Ben Roethlisberger pass incomplete deep right intended for Donte Moncrief,0,17,0.06,-0.62
+2,03:37,3,10,PIT 25,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 19 yards (tackle by Stephon Gilmore),0,17,-0.62,1.86
+2,02:58,1,10,PIT 44,Ben Roethlisberger pass complete short left to Ryan Switzer for 1 yard (tackle by Patrick Chung and Ja'Whaun Bentley),0,17,1.86,1.45
+2,02:20,2,9,PIT 45,Ben Roethlisberger pass incomplete deep right intended for James Washington,0,17,1.45,0.76
+2,02:15,3,9,PIT 45,Ben Roethlisberger pass complete short right to Diontae Johnson for 8 yards (tackle by Jason McCourty),0,17,0.76,0.13
+2,02:00,,,,Timeout #1 by Pittsburgh Steelers,,,,
+2,02:00,4,1,NWE 47,Ben Roethlisberger pass incomplete short left intended for Donte Moncrief (defended by Patrick Chung),0,17,0.13,-2.06
+2,01:57,1,10,NWE 47,Tom Brady pass complete short left to Rex Burkhead for 11 yards (tackle by Mark Barron),0,17,2.06,2.79
+2,01:27,1,10,PIT 42,Tom Brady pass complete short left to Rex Burkhead for 5 yards (tackle by Devin Bush),0,17,2.79,2.92
+2,01:03,2,5,PIT 37,Tom Brady pass incomplete deep right intended for Julian Edelman,0,17,2.92,2.21
+2,01:00,3,5,PIT 37,Tom Brady pass complete short left to James White for 10 yards,0,17,2.21,3.78
+2,00:54,1,10,PIT 27,Tom Brady pass complete short left to Phillip Dorsett for 4 yards (tackle by Terrell Edmunds),0,17,3.78,3.77
+2,00:32,2,6,PIT 23,Tom Brady pass incomplete short middle intended for Rex Burkhead,0,17,3.77,3.07
+2,00:27,3,6,PIT 23,Tom Brady pass incomplete short right intended for James White,0,17,3.07,1.95
+2,00:21,4,6,PIT 23,Stephen Gostkowski 41 yard field goal good,0,20,1.95,3
+2,00:17,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",0,20,0,0.61
+2,00:17,1,10,PIT 25,James Conner up the middle for 4 yards (tackle by Patrick Chung),0,20,0.61,0.6
+3,15:00,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",0,20,0,0.61
+3,15:00,1,10,PIT 25,Ben Roethlisberger pass complete short middle to James Conner for 5 yards (tackle by Dont'a Hightower and John Simon),0,20,0.61,0.74
+3,14:18,2,5,PIT 30,Ben Roethlisberger pass complete short left to Ryan Switzer for 7 yards (tackle by Jamie Collins and Jonathan Jones),0,20,0.74,1.4
+3,13:35,1,10,PIT 37,Ben Roethlisberger pass incomplete short right intended for JuJu Smith-Schuster (defended by John Simon),0,20,1.4,0.86
+3,13:32,2,10,PIT 37,Ben Roethlisberger pass incomplete short left intended for JuJu Smith-Schuster,0,20,0.86,0.17
+3,13:27,3,10,PIT 37,Ben Roethlisberger pass complete deep right to James Washington for 45 yards,0,20,0.17,4.37
+3,12:59,1,10,NWE 18,Ben Roethlisberger pass incomplete deep right intended for Donte Moncrief (defended by Jason McCourty),0,20,4.37,3.8
+3,12:52,2,10,NWE 18,Ben Roethlisberger right tackle for 7 yards (tackle by Dont'a Hightower),0,20,3.8,4.26
+3,12:03,3,3,NWE 11,"Ben Roethlisberger pass incomplete short left intended for Diontae Johnson (defended by Jonathan Jones). Penalty on Stephon Gilmore: Defensive Holding, 5 yards (no play)",0,20,4.26,5.83
+3,11:58,1,6,NWE 6,"Ben Roethlisberger sacked by Deatrich Wise for no gain. Ben Roethlisberger fumbles (forced by Deatrich Wise), recovered by Ramon Foster at NE-4 (tackle by Dont'a Hightower)",0,20,5.83,5.34
+3,11:11,2,4,NWE 4,James Conner right end for 3 yards (tackle by Jamie Collins and Patrick Chung),0,20,5.34,5.17
+3,10:23,,,,Timeout #1 by Pittsburgh Steelers,,,,
+3,10:23,3,1,NWE 1,Ben Roethlisberger pass incomplete short left intended for Donte Moncrief,0,20,5.17,3.55
+3,10:19,4,1,NWE 1,Chris Boswell 19 yard field goal good,3,20,3.55,3
+3,10:17,,,PIT 35,"Chris Boswell kicks off 60 yards, returned by Brandon Bolden for 20 yards (tackle by Johnny Holton and Jordan Dangerfield)",3,20,0,0.61
+3,10:07,1,10,NWE 25,Tom Brady pass complete short left to Julian Edelman for 17 yards (tackle by Mike Hilton),3,20,0.61,1.73
+3,09:32,1,10,NWE 42,Sony Michel right tackle for -3 yards (tackle by T.J. Watt),3,20,1.73,0.78
+3,08:49,2,13,NWE 39,Tom Brady pass complete short right to Ryan Izzo for 3 yards (tackle by Devin Bush),3,20,0.78,0.5
+3,08:13,3,10,NWE 42,"Tom Brady pass complete deep right to Phillip Dorsett for 58 yards, touchdown",3,26,0.5,7
+3,08:05,,,PIT 15,Stephen Gostkowski kicks extra point good,3,27,0,0
+3,08:05,,,NWE 35,"Stephen Gostkowski kicks off 63 yards, returned by Ryan Switzer for 26 yards (tackle by Stephen Gostkowski)",3,27,0,0.81
+3,07:57,1,10,PIT 28,Ben Roethlisberger pass complete short right to James Conner for 7 yards (tackle by Jonathan Jones),3,27,0.81,1.21
+3,07:21,2,3,PIT 35,Ben Roethlisberger pass complete short right to James Conner for 23 yards (tackle by Devin McCourty),3,27,1.21,2.79
+3,06:43,1,10,NWE 42,"Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 27 yards (tackle by Dont'a Hightower and Devin McCourty). Penalty on Diontae Johnson: Offensive Pass Interference, 10 yards (no play)",3,27,2.79,2.13
+3,06:08,1,20,PIT 48,"Ben Roethlisberger pass complete short middle to Diontae Johnson for 7 yards (tackle by Jonathan Jones). Penalty on Shilique Calhoun: Defensive Offside, 5 yards (no play)",3,27,2.13,2.46
+3,05:41,1,15,NWE 47,Ben Roethlisberger pass incomplete deep right intended for Diontae Johnson,3,27,2.46,1.57
+3,05:36,2,15,NWE 47,Ben Roethlisberger pass incomplete short left intended for James Washington,3,27,1.57,0.89
+3,05:32,3,15,NWE 47,Ben Roethlisberger pass incomplete short right intended for Johnny Holton,3,27,0.89,0.13
+3,05:27,4,15,NWE 47,"Jordan Berry punts 37 yards, fair catch by Gunner Olszewski at NE-10",3,27,0.13,0.38
+3,05:20,1,10,NWE 10,Tom Brady pass complete short middle to Julian Edelman for 4 yards (tackle by Vince Williams),3,27,-0.38,-0.46
+3,04:39,2,6,NWE 14,Tom Brady pass complete deep middle to Josh Gordon for 44 yards (tackle by Terrell Edmunds),3,27,-0.46,2.79
+3,04:10,1,10,PIT 42,Tom Brady pass complete short left to Rex Burkhead for 5 yards (tackle by Devin Bush),3,27,2.79,2.92
+3,03:33,2,5,PIT 37,Rex Burkhead right end for 11 yards (tackle by Devin Bush and Terrell Edmunds),3,27,2.92,3.84
+3,02:55,1,10,PIT 26,Rex Burkhead right guard for 11 yards (tackle by Devin Bush),3,27,3.84,4.58
+3,02:11,1,10,PIT 15,Rex Burkhead up the middle for 3 yards (tackle by Terrell Edmunds and T.J. Watt),3,27,4.58,4.45
+3,01:32,2,7,PIT 12,Rex Burkhead left tackle for 2 yards (tackle by Kameron Kelly),3,27,4.45,4
+3,00:52,3,5,PIT 10,Tom Brady sacked by Bud Dupree for -7 yards,3,27,4,2.31
+3,00:16,4,12,PIT 17,Stephen Gostkowski 35 yard field goal good,3,30,2.31,3
+3,00:13,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",3,30,0,0.61
+3,00:13,1,10,PIT 25,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 9 yards (tackle by Stephon Gilmore),3,30,0.61,1.28
+4,15:00,2,1,PIT 34,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 8 yards (tackle by Stephon Gilmore),3,30,1.28,1.73
+4,14:30,1,10,PIT 42,Ben Roethlisberger pass complete short middle to Ryan Switzer for 7 yards (tackle by Devin McCourty),3,30,1.73,2.13
+4,13:53,2,3,PIT 49,Ben Roethlisberger pass complete short right to Ryan Switzer for 5 yards (tackle by Jonathan Jones),3,30,2.13,2.52
+4,13:19,1,10,NWE 46,Ben Roethlisberger pass incomplete short right intended for Diontae Johnson (defended by Jonathan Jones),3,30,2.52,1.98
+4,13:16,2,10,NWE 46,Ben Roethlisberger pass incomplete short middle intended for Donte Moncrief (defended by Jason McCourty),3,30,1.98,1.29
+4,13:13,,,,Timeout #1 by New England Patriots,,,,
+4,13:13,3,10,NWE 46,"Maurkice Pouncey aborted snap, recovered by Ben Roethlisberger at PIT-46 Ben Roethlisberger pass complete short middle to Donte Moncrief for 1 yard (tackle by J.C. Jackson)",3,30,1.29,0.27
+4,12:32,4,9,NWE 45,Ben Roethlisberger pass incomplete short left intended for Donte Moncrief. Penalty on Alejandro Villanueva: Offensive Holding (Declined),3,30,0.27,-1.93
+4,12:26,1,10,NWE 45,Sony Michel right guard for 3 yards (tackle by Devin Bush and Vince Williams),3,30,1.93,1.79
+4,11:52,2,7,NWE 48,Julian Edelman left end for 8 yards (tackle by Kameron Kelly and Cameron Heyward),3,30,1.79,2.65
+4,11:18,1,10,PIT 44,Sony Michel up the middle for no gain (tackle by Mike Hilton),3,30,2.65,2.11
+4,10:39,2,10,PIT 44,Sony Michel left end for 4 yards (tackle by Devin Bush and Cameron Heyward),3,30,2.11,1.95
+4,09:55,3,6,PIT 40,Tom Brady pass complete short right to Julian Edelman for 13 yards (tackle by Mike Hilton),3,30,1.95,3.78
+4,09:17,1,10,PIT 27,"Rex Burkhead up the middle for 8 yards (tackle by Devin Bush and Vince Williams). Penalty on Isaiah Wynn: Offensive Holding, 10 yards (no play)",3,30,3.78,3.12
+4,09:02,1,20,PIT 37,Tom Brady pass complete short right to Rex Burkhead for 3 yards (tackle by Artie Burns),3,30,3.12,2.29
+4,08:27,2,17,PIT 34,"Tom Brady pass complete short middle to Julian Edelman for 16 yards (tackle by Kameron Kelly). Penalty on Bud Dupree: Defensive Pass Interference, 9 yards (no play)",3,30,2.29,3.91
+4,08:10,1,10,PIT 25,Sony Michel right end for 4 yards (tackle by Cameron Heyward and Devin Bush),3,30,3.91,3.9
+4,07:51,2,6,PIT 21,Rex Burkhead up the middle for 6 yards (tackle by Cameron Heyward),3,30,3.9,4.58
+4,07:16,1,10,PIT 15,"Rex Burkhead right tackle for 4 yards (tackle by Joe Haden). Penalty on Shaq Mason: Offensive Holding, 10 yards",3,30,4.58,4.17
+4,06:51,1,16,PIT 21,Tom Brady pass incomplete short right intended for Julian Edelman,3,30,4.17,3.21
+4,06:47,2,16,PIT 21,Tom Brady pass incomplete short middle intended for Rex Burkhead,3,30,3.21,2.54
+4,06:45,3,16,PIT 21,Tom Brady pass incomplete short left intended for Julian Edelman,3,30,2.54,2.06
+4,06:41,4,16,PIT 21,Stephen Gostkowski 39 yard field goal good,3,33,2.06,3
+4,06:38,,,NWE 35,"Stephen Gostkowski kicks off 65 yards, touchback.",3,33,0,0.61
+4,06:38,1,10,PIT 25,James Conner right end for no gain (tackle by Jamie Collins and Duron Harmon),3,33,0.61,0.06
+4,06:06,2,10,PIT 25,"Penalty on PIT: False Start, 5 yards (no play)",3,33,0.06,-0.61
+4,05:44,2,15,PIT 20,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 26 yards (tackle by Devin McCourty),3,33,-0.61,1.99
+4,05:04,1,10,PIT 46,Ben Roethlisberger pass complete short left to Donte Moncrief for 3 yards (tackle by Jason McCourty),3,33,1.99,1.86
+4,04:33,2,7,PIT 49,Ben Roethlisberger pass incomplete deep right intended for James Washington,3,33,1.86,1.16
+4,04:28,3,7,PIT 49,"Ben Roethlisberger pass incomplete short left intended for JuJu Smith-Schuster (defended by J.C. Jackson). Penalty on J.C. Jackson: Defensive Pass Interference, 10 yards (no play)",3,33,1.16,2.85
+4,04:24,1,10,NWE 41,Ben Roethlisberger pass deep right intended for James Washington is intercepted by Devin McCourty at NE-0 and returned for no gain,3,33,2.85,-0.28
+4,04:17,1,10,NWE 20,Sony Michel up the middle for no gain (tackle by Bud Dupree),3,33,0.28,-0.27
+4,03:42,2,10,NWE 20,Sony Michel left end for -5 yards (tackle by Bud Dupree),3,33,-0.27,-1.86
+4,02:59,3,15,NWE 15,James White up the middle for 2 yards (tackle by Mark Barron and Cameron Heyward),3,33,-1.86,-2.32
+4,02:13,4,13,NWE 17,"Jake Bailey punts 38 yards, fair catch by Ryan Switzer at PIT-45",3,33,-2.32,-1.93
+4,02:06,1,10,PIT 45,"Ben Roethlisberger pass complete short left to Jaylen Samuels for 2 yards (tackle by Ja'Whaun Bentley). Penalty on David DeCastro: Unnecessary Roughness, 15 yards",3,33,1.93,-0.37
+4,02:00,2,23,PIT 32,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 9 yards (tackle by Chase Winovich),3,33,-0.37,0.17
+4,01:22,3,14,PIT 41,Ben Roethlisberger pass complete short left to Vance McDonald for 19 yards (tackle by Jason McCourty),3,33,0.17,2.92
+4,00:49,1,10,NWE 40,Ben Roethlisberger pass incomplete short right intended for Vance McDonald,3,33,2.92,2.37
+4,00:46,2,10,NWE 40,Ben Roethlisberger pass incomplete short left intended for Jaylen Samuels,3,33,2.37,1.68
+4,00:42,3,10,NWE 40,Ben Roethlisberger pass complete short left to Diontae Johnson for 8 yards (tackle by Jason McCourty),3,33,1.68,1.3
+4,00:36,4,2,NWE 32,Ben Roethlisberger pass complete short right to James Washington for 6 yards (tackle by Jamie Collins),3,33,1.3,3.84
+4,00:12,1,10,NWE 26,Ben Roethlisberger pass incomplete short middle intended for Vance McDonald (defended by Devin McCourty),3,33,3.84,3.3
+4,00:06,,,,Timeout #2 by New England Patriots,,,,
+4,00:06,2,10,NWE 26,Ben Roethlisberger pass complete short left to Vance McDonald for 21 yards (tackle by Jason McCourty and Stephon Gilmore),3,33,3.3,2.46
